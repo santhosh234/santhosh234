@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Santhosh S</h1>
 <h3 align="Center">A Passionate DevOps Enthusiast </h3>
 <p align="center">
-    <img alt="Coding" width="500px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47b4ukjeqvidtvy19w4hidiefkggsmtmssgejzqw6d&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+    <img alt="Coding" width="500px" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Santhosh234&label=Profile%20views&color=0e75b6&style=flat" alt="Santhosh234" /> </p>
 
