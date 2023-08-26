@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Santhosh S</h1>
 <h3 align="Center">A Passionate DevOps Enthusiast </h3>
-<img align="center" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47b4ukjeqvidtvy19w4hidiefkggsmtmssgejzqw6d&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="Center" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47b4ukjeqvidtvy19w4hidiefkggsmtmssgejzqw6d&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Santhosh234&label=Profile%20views&color=0e75b6&style=flat" alt="Santhosh234" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Santhosh234&theme=" alt="Santhosh234" /></a> </p>
