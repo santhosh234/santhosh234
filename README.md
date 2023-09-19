@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Santhosh234&theme=" alt="Santhosh234" /></a> </p>
 
-- 🔭 I’m currently working on **AWS, Kubernetes**
+- 🔭 I’m currently working on **Azure, Kubernetes**
 - 🌱 I’m currently learning **Kubernetes, Github Actions**
-- 💬 Ask me about **Python, Java, Docker**
+- 💬 Ask me about **Python, Java, Docker, Kubernetes**
 - 📫 How to reach me **santhumes2@gmail.com**
 - ⚡ Fun fact **I think I am funny**
 
