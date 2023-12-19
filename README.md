@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Santhosh S</h1>
+<iframe src="https://giphy.com/embed/D5IJyEIMGv6r57WLGM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bayer04-bayer-04-b04-D5IJyEIMGv6r57WLGM">via GIPHY</a></p>
 <h3 align="Center">A Passionate DevOps Enthusiast </h3>
 <p align="center">
     <img alt="Coding" width="500px" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
